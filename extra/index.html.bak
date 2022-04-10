@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en-US"> 
+
+<!-- Head Section Content --> 
+<head> 
+	<!-- Page Title --> 
+	<title> Pride Crochet Home </title> 
+
+
+<!-- Stylesheets --> 
+
+<link href="css/reset.css" rel="stylesheet" />
+<link href="css/styles1.css" rel="stylesheet" />
+
+
+<!-- Body Section Content --> 
+</head>
+<body>
+<a href="index.html"><img src="images/pridelong2.png" alt="PrideCrochetLogo" /> </a>
+<header> 
+      <nav class="horizontalNavigation">
+         <ul>
+            <li><a href="home.html">Home</a></li>
+            <li><a href="about.html">About</a></li>
+            <li><a href="bs.html">Best Sellers</a></li>
+            <li><a href="contact.html">Contact Us</a></li>
+         </ul>
+      </nav>
+   </header>
+   <h1> Welcome To Pride Crochet </h1> 
+   <table class=home>
+  <tr>
+    <th> Grand Opening </th>
+    <th> Popular Product </th>
+  </tr>
+  <tr>
+    <td>We are excited that our store is now open at 600 Hoyt Street Peru, NE. Come visit our lovely staff and help us find you the perfect product. </td>
+    <td>Mothers Day  is right around the corner: Looking for a gift for mom for Mother's day get a crocheted heart for her to show your love. 
+</td>
+  </tr>
+  <tr>
+    <td> <img src="images/logo.png" alt="PrideCrochetLogo"/> </td>
+	<td> 
+	<img src="images/hearts.jpg" alt="group of crochet hearts" />
+	</td>
+  </tr>
+</table>
+
+<!-- Footer Section -->
+
+<footer>
+	Pride Crochet &#8226; 600 Hoyt Street Peru, NE &#8226; <a href="tel:+4028752543"> 402-875-2543 </a> &#8226; <a href="mailto:pridecrochet@gmail.com">PrideCrochet@gmail.com </a>
+</footer> 
+
+
+</body> 
+</html>

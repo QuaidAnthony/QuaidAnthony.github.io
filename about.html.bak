@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en-US"> 
+
+<!-- Head Section Content --> 
+<head> 
+	<!-- Page Title --> 
+	<title> Pride Crochet About </title> 
+
+
+<!-- Stylesheets --> 
+
+<link href="css/reset.css" rel="stylesheet" />
+<link href="css/styles1.css" rel="stylesheet" />
+<link href="css/style2.css" rel="stylesheet" />
+
+<!-- Body Section Content --> 
+</head>
+<body>
+<a href="index.html"><img src="images/pridelong3.png" alt="PrideCrochetLogo" /> </a>
+<header> 
+      <nav class="horizontalNavigation">
+         <ul>
+            <li><a href="index.html">Home</a></li>
+            <li><a href="about.html">About</a></li>
+            <li><a href="bs.html">Best Sellers</a></li>
+            <li><a href="contact.html">Contact Us</a></li>
+         </ul>
+      </nav>
+   </header>
+   <h1> About Pride Crochet </h1> 
+	<div class="columns">
+		<p> Established in January 2022, Pride Crochet started off in a little one bedroom apartment in Peru, NE. Now it has grown into its new home at 600 Hoyt Street Peru,NE. 
+		</p>
+	   <p>
+		At Pride Crochet we want to help you find the most ideal product for you. Our team will work with you to select a design, color and product.</p>
+		
+		<p>
+		Many of our products are created at request of our customers. After filling out a <a href="contact.html"> request form </a>our team reviews the form and determining the best way for the product to be produced and in your hands in the littlest time possible. </p>
+
+		<iframe 
+		src="https://www.youtube.com/embed/tgbNymZ7vqY">
+		</iframe>
+		<p> 
+		Check out this video and follow us for more videos on products and techniques that we use.  
+		</p> 
+		<p> 
+		We also provide crocheting lessons and have a club that meets every other tuesday. If you are interested in becoming a member or just want to learn more about crocheting please contact us. 
+		</p>
+	</div>
+	
+<!-- Footer Section -->
+
+<footer>
+	Pride Crochet &#8226; 600 Hoyt Street Peru, NE &#8226; <a href="tel:+4028752543"> 402-875-2543 </a> &#8226; <a href="mailto:pridecrochet@gmail.com">PrideCrochet@gmail.com </a>
+</footer> 
+
+
+</body> 
+</html>

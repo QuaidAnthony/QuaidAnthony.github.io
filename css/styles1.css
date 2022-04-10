@@ -1,0 +1,63 @@
+@charset "utf-8";
+
+/* Horizontal Navigation Styles */
+
+body > header > nav.horizontalNavigation li{
+	width: 25%; 
+}
+
+nav.horizontalNavigation li {
+	display: block;
+	float: left;
+}
+nav.horizontalNavigation a {
+	display: block;
+	text-align: center;
+}
+nav.horizontalNavigation a:hover{
+	background: clear;
+	color: black;
+}
+
+
+/* Table Home Page */ 
+
+table.home {
+	background: #ffe6e6;
+	border: 10px outset #ffcc99;
+	font: 0.75em;
+	font-family: verdana;
+	width: 100%
+}
+table.home th {
+    font-weight: bold;
+    font-size: 25px;
+	text-align: center;
+}
+
+table.home td {
+	orphans: 2;
+	padding: 10px;
+	text-align: left;
+}
+/* Photo Settings */ 
+
+img {
+	display: block;
+	height: auto;
+	max-width: 100%;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+/* font */ 
+h1{
+	font-family: verdana;
+}
+
+
+p {
+	font-family: verdana;
+	font-size: 20px;
+}
+
