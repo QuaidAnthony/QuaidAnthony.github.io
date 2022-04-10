@@ -15,7 +15,7 @@ nav.horizontalNavigation a {
 	text-align: center;
 }
 nav.horizontalNavigation a:hover{
-	background: clear;
+	background: white;
 	color: black;
 }
 
