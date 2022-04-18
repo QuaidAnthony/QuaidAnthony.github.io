@@ -13,34 +13,34 @@ nav.horizontalNavigation li {
 nav.horizontalNavigation a {
 	display: block;
 	text-align: center;
+	margin-top: 8px;
 }
 nav.horizontalNavigation a:hover{
-	background: clear;
+	background: white;
 	color: black;
 }
 
 
 /* Table Home Page */ 
 
-table.home {
+table {
 	background: #ffe6e6;
 	border: 10px outset #ffcc99;
 	font: 0.75em;
+	font-family: verdana;
+	padding: 20px;
 	width: 100%
 }
 table.home th {
-	font-family: verdana;
     font-weight: bold;
     font-size: 25px;
 	text-align: center;
 }
 
 table.home td {
-	font-family: verdana;
 	orphans: 2;
 	padding: 10px;
 	text-align: left;
-	font: .75em;
 }
 /* Photo Settings */ 
 
@@ -62,4 +62,61 @@ p {
 	font-family: verdana;
 	font-size: 20px;
 }
+
+/* Column Set */ 
+
+.columns {
+	column-count: 2;
+	column-gap: 3em;
+	break-after: column;
+}
+
+p{
+	margin-top: 0;
+}
+
+div.columns {
+	
+	column-width: 200px;
+	column-rule: 2px solid gray;
+	orphans: 10;
+	break-before: auto;
+}
+div.footer {
+	display: block;
+	column-width: auto;
+}
+
+body > div.columns{
+	background: #ffe6e6;
+	border: 10px outset #ffcc99;
+	font: 0.75em;
+	height: auto;
+	padding: 20px;
+	width: auto;
+}
+
+/* Video sizing */ 
+
+iframe {
+	height: auto;
+	width: 100%;
+	column-span: all;
+}
+
+
+h1 {
+	font-family: verdana;
+}
+
+/* Table for bs page */ 
+
+table.best th {
+	border: 1px solid;
+	text-align: center;
+}
+table.best td {
+	border: collapse;
+}
+
 

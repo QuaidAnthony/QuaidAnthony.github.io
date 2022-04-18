@@ -26,7 +26,7 @@ footer {
 	padding: 5px; 
 	background-color: #ffcc99; 
 	clear: both; 
-	height: 15px;
+	height: auto;
 }
 
 /* Page Setup */ 

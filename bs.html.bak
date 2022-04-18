@@ -4,13 +4,14 @@
 <!-- Head Section Content --> 
 <head> 
 	<!-- Page Title --> 
-	<title> P.C. Home </title> 
+	<title> P.C. Best Sellers </title> 
 
 
 <!-- Stylesheets --> 
 
 <link href="css/reset.css" rel="stylesheet" />
 <link href="css/styles1.css" rel="stylesheet" />
+
 
 <!-- Body Section Content --> 
 </head>
@@ -26,30 +27,53 @@
          </ul>
       </nav>
    </header>
-   <h1> Welcome To Pride Crochet </h1> 
-   <table class=home>
+   <h1> Best Sellers </h1> 
+
+<table class="best">
   <tr>
-    <th> Grand Opening </th>
-    <th> Popular Product </th>
+    <th colspan="2">Product Name </th>
+	
+    <th colspan="1">Price</th>
   </tr>
   <tr>
-    <td>We are excited that our store is now open at 600 Hoyt Street Peru, NE. Come visit our lovely staff and help us find you the perfect product. </td>
-    <td>Mothers Day  is right around the corner: Looking for a gift for mom for Mother's day get a crocheted heart for her to show your love. 
-</td>
+	<td>Crochet Hearts</td> 
+    <td><img src="images/hearts.jpg" alt="group of crochet hearts" /></td>
+    <td>$8.00 (each)</td>
   </tr>
   <tr>
-    <td> <img src="images/logo.png" alt="PrideCrochetLogo"/> </td>
-	<td> 
-	<img src="images/hearts.jpg" alt="group of crochet hearts" />
+    <td>Pride Blanket</td>
+    <td><img src="images/prideblanket.jpg" alt="Pride Crochet blanket" /></td>
+    <td>$30.00 (36x36)
+		$50.00 (42x48)
+		$65.00 (54x54)
 	</td>
   </tr>
+  <tr>
+    <td>Crochet Bear</td>
+    <td><img src="images/bear.jpg" alt="Crochet Bear" /></td>
+    <td>$20.00 (12in)
+		$35.00 (18in)
+		$45.00 (22in)
+	</td>
+  </tr>
+  <tr>
+    <td>Crochet Ovenmitts</td>
+    <td><img src="images/ovenmitts.jpg" alt="Crochet Ovenmitts" /></td>
+    <td>$10.00 (each)</td>
+  </tr>
+  <tr>
+    <td>Custom Blankets</td>
+    <td><img src="images/obcrochet.jpg" alt="Crochet Custom Blanket" /></td>
+    <td> <a href="contact.html">Contact us </a></li>about custom designs and sizes. We would love to work with you on creating a design that is best for you. </td>
+  </tr>
 </table>
+
 
 <!-- Footer Section -->
 
 <footer>
 	Pride Crochet &#8226; 600 Hoyt Street Peru, NE &#8226; <a href="tel:+4028752543"> 402-875-2543 </a> &#8226; <a href="mailto:pridecrochet@gmail.com">PrideCrochet@gmail.com </a> 
-<table class="footer"> 	
+<table> 	
  <th><a href="https://www.facebook.com"><img src="images/facebook.png" alt="pride crochetfacebook" /></a> </th> 
 	<th><a href="https://www.instagram.com"><img src="images/instagram.png" alt="pride crochet instagram" /></a></th>
 	<th><a href="https://www.twitter.com"><img src="images/twitter.png" alt="pride crochet twitter" /></a></th> 
@@ -66,6 +90,8 @@
 	</tr> 
 </table>
 </footer> 
+
+
 
 
 </body> 

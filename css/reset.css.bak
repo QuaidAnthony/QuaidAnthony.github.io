@@ -97,13 +97,7 @@ footer {
 	}
 }
 
-/* Background Image */ 
 
-<style>
-body{
-	background-image: url(images/logo.png);
-}
-</style>
 
 
 
