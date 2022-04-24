@@ -64,7 +64,7 @@
   <tr>
     <td>Custom Blankets</td>
     <td><img src="images/obcrochet.jpg" alt="Crochet Custom Blanket" /></td>
-    <td> <a href="contact.html">Contact us </a></li>about custom designs and sizes. We would love to work with you on creating a design that is best for you. </td>
+    <td> <a href="contact.html">Contact us </a>about custom designs and sizes. We would love to work with you on creating a design that is best for you. </td>
   </tr>
 </table>
 
@@ -73,10 +73,11 @@
 
 <footer>
 	Pride Crochet &#8226; 600 Hoyt Street Peru, NE &#8226; <a href="tel:+4028752543"> 402-875-2543 </a> &#8226; <a href="mailto:pridecrochet@gmail.com">PrideCrochet@gmail.com </a> 
-<table> 	
- <th><a href="https://www.facebook.com"><img src="images/facebook.png" alt="pride crochetfacebook" /></a> </th> 
-	<th><a href="https://www.instagram.com"><img src="images/instagram.png" alt="pride crochet instagram" /></a></th>
-	<th><a href="https://www.twitter.com"><img src="images/twitter.png" alt="pride crochet twitter" /></a></th> 
+<table class="footer">
+<tbody>
+<th><a href="https://www.facebook.com" target="_blank"><img src="images/facebook.png" alt="pride crochetfacebook" /></a> </th> 
+	<th><a href="https://www.instagram.com" target="_blank"><img src="images/instagram.png" alt="pride crochet instagram" /></a></th>
+	<th><a href="https://www.twitter.com" target="_blank"><img src="images/twitter.png" alt="pride crochet twitter" /></a></th> 
 	<tr> 
 	<td> 
 	Like our Facebook
@@ -88,6 +89,7 @@
 	Follow our Twitter
 	</td>
 	</tr> 
+</tbody>
 </table>
 </footer> 
 
