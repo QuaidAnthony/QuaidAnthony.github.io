@@ -159,7 +159,7 @@ div.formRow > *{
 
 legend {
 	background-color: #ffcc99;
-	color: white;
+	color: black;
 	padding: 5px;
 }
 
@@ -170,6 +170,7 @@ textarea{
 	margin-top: 10px;
 	height: 100px;
 	width: 95%;
+	
 }
 
 

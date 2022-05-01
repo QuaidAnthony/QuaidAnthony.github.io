@@ -132,7 +132,7 @@ form#survey {
 }
 
 form#survey > fieldset{
-	background-color: #ffe6e6;
+	background-color: #ffee6;
 	border-radius: 20px;
 	-webkit-flex: 1 1 300px;
 	flex: 1 1 300px;
@@ -158,8 +158,8 @@ div.formRow > *{
 /* Legend Styles */
 
 legend {
-	background-color: #ffe6e6;
-	color: white;
+	background-color: #ffcc99;
+	color: black;
 	padding: 5px;
 }
 
@@ -170,6 +170,7 @@ textarea{
 	margin-top: 10px;
 	height: 100px;
 	width: 95%;
+	
 }
 
 
